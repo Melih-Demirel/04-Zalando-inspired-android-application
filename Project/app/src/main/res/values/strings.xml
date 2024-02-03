@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_in_store">In-Store</string>
+    <string name="title_search">Search</string>
+    <string name="title_home">Home</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_shopping_cart">Shopping Cart</string>
+    <string name="title_btn_in_store_search_in_shop">Zoek in winkel</string>
+    <string name="title_btn_in_store_scan">Scan barcode</string>
+    <string name="title_btn_in_store_whishlist">Whishlist</string>
+    <string name="title_btn_in_store_promotions">promotions</string>
+    <string name="title_label_in_store_queue_checkout">Checkout:</string>
+    <string name="title_label_in_store_queue_fitting_rooms">Fitting rooms:</string>
+    <string name="title_btn_in_store_search_new_store">Select new Store</string>
+    <string name="title_btn_in_store_scanner">Scan productEntity</string>
+</resources>
